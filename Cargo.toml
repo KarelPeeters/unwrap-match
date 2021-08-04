@@ -1,0 +1,10 @@
+[package]
+name = "unwrap-match"
+version = "0.1.0"
+edition = "2018"
+
+description = "A macro that generalizes unwrap to arbitrary patterns, panincking the pattern does not match."
+repository="https://github.com/KarelPeeters/unwrap-match"
+license="MIT"
+
+[dependencies]
